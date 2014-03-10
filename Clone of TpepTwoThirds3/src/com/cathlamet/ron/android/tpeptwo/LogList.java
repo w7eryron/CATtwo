@@ -6,7 +6,7 @@ import android.content.Context;
 import android.text.format.DateFormat;
 import android.util.Log;
 
-
+// try out 
 
 public class LogList {
 	private static final String TAG = "LogList"; 
